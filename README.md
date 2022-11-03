@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshmoni227" alt="mukeshmoni227" /></a> </p>
 - 🔭 I’m currently working on **MIRACLE NETWORK**
 
-- 💬 Ask me about **https://t.me/CRICKETER_420**
+- 💬 Ask me about **https://t.me/DarkprincenO1**
 
 - 📫 How to reach me **mukeshprajeen@gmail.com**
 <h3 align="left">Connect with me:</h3>
